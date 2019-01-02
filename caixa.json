@@ -1,0 +1,65 @@
+[
+   {
+      "horario":"01/01/19 - 20:48:40",
+      "descricao":"Saldo inicial - Abertura de Caixa",
+      "formato":"",
+      "tipo":"Entrada",
+      "valor":"100.00"
+   },
+   {
+      "horario":"01/01/19 - 20:48:51",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Entrada",
+      "valor":"120.00"
+   },
+   {
+      "horario":"01/01/19 - 20:49:27",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Saída",
+      "valor":"200.00"
+   },
+   {
+      "horario":"01/01/19 - 20:50:23",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Adição",
+      "valor":"123.00"
+   },
+   {
+      "horario":"01/01/19 - 20:51:45",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Retirada",
+      "valor":"100.00"
+   },
+   {
+      "horario":"01/01/19 - 20:55:40",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Entrada",
+      "valor":"200.00"
+   },
+   {
+      "horario":"01/01/19 - 21:35:07",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Entrada",
+      "valor":"2000.00"
+   },
+   {
+      "horario":"01/01/19 - 22:11:32",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Entrada",
+      "valor":"123.23"
+   },
+   {
+      "horario":"02/01/19 - 14:40:38",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Saída",
+      "valor":"234.00"
+   }
+]
