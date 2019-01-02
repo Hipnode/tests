@@ -61,5 +61,19 @@
       "formato":"Dinheiro",
       "tipo":"Saída",
       "valor":"234.00"
+   },
+   {
+      "horario":"02/01/19 - 15:25:00",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Retirada",
+      "valor":"20.00"
+   },
+   {
+      "horario":"02/01/19 - 15:25:18",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Entrada",
+      "valor":"90.00"
    }
 ]
