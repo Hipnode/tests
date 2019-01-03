@@ -75,5 +75,12 @@
       "formato":"Dinheiro",
       "tipo":"Entrada",
       "valor":"90.00"
+   },
+   {
+      "horario":"02/01/19 - 15:20:18",
+      "descricao":"",
+      "formato":"Cartao",
+      "tipo":"Entrada",
+      "valor":"90.00"
    }
 ]
