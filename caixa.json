@@ -77,10 +77,45 @@
       "valor":"90.00"
    },
    {
-      "horario":"02/01/19 - 15:20:18",
+      "horario":"03/01/19 - 17:50:56",
       "descricao":"",
-      "formato":"Cartao",
+      "formato":"Dinheiro",
+      "tipo":"Saída",
+      "valor":"234.00"
+   },
+   {
+      "horario":"03/01/19 - 17:51:12",
+      "descricao":"sdfgsdfgsdfgsdfg",
+      "formato":"Dinheiro",
+      "tipo":"Retirada",
+      "valor":"123.00"
+   },
+   {
+      "horario":"04/01/19 - 14:37:10",
+      "descricao":"",
+      "formato":"Cartão",
       "tipo":"Entrada",
-      "valor":"90.00"
+      "valor":"123.00"
+   },
+   {
+      "horario":"04/01/19 - 14:38:21",
+      "descricao":"",
+      "formato":"Cartão",
+      "tipo":"Entrada",
+      "valor":"230.00"
+   },
+   {
+      "horario":"04/01/19 - 14:42:15",
+      "descricao":"",
+      "formato":"Dinheiro",
+      "tipo":"Entrada",
+      "valor":"12.00"
+   },
+   {
+      "horario":"04/01/19 - 14:42:41",
+      "descricao":"",
+      "formato":"Cheque",
+      "tipo":"Entrada",
+      "valor":"45.00"
    }
 ]
