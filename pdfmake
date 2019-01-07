@@ -1,0 +1,2689 @@
+
+var dd = {
+    content: [
+        {
+            columns: [
+                {text: 'Bossa Pousada Boutique ', style: 'header'},
+                {
+                    text: 'Estadia #18103-596.997\nEntrada: 22/12/2018\nSaída: 05/01/2019\nHóspede: Ricardo \nEstado: Check IN',
+                    alignment: 'right'
+                }
+            ]
+        },
+        {
+            margin: [ 0, 20],
+            columns: [
+                {
+                    text: 'lkasjdlçfka'
+                },
+                {
+                    text: '(53) 9999-9999',
+                    alignment: 'right'
+                }
+            
+            ]
+        },
+        
+        {
+            layout: 'noBorders',
+            table: {
+               
+                widths: ['*','auto'],
+                
+                body: [
+                     [ {text: 'Pagamentos', style: 'tableHeader'}, {text:'Valor', alignment: 'right', style: 'tableHeader'}],
+                
+                    [{
+                        text:'Nenhum pagamento registrado',
+                        style: 'commented',
+                        alignment: 'center',
+                        colSpan: 2
+                    }],
+                
+               
+                
+                ]
+            }
+        },
+        
+        {
+            margin: [ 0, 20],
+            layout: 'noBorders',
+            table: {
+               
+                widths: ['*','auto','auto','auto'],
+                
+                body: [
+                     [ 
+                        {text: 'Despesas', style: 'tableHeader'},
+                        {text: 'qtd', style: 'tableHeader'},
+                        {text: 'Unitário', style: 'tableHeader'},
+                        {text: 'Total', style: 'tableHeader'}
+                    ],
+                        
+                        [{
+                            
+                                text: 'Diária 22/12 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 23/12 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 24/12 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 25/12 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 26/12 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 27/12 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 28/12 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 29/12 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 30/12 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 31/12 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 01/01 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 02/01 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 03/01 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+                    
+                        [{
+                            
+                                text: 'Diária 04/01 - Alta Temporada (master)  (duas pessoas) - Ap 01 Master ',
+                            
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 1380,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+                    
+   
+                    
+                        [{
+                            text: 'Hospedagem Parceria',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ -19320,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ -19320,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+                    
+
+                
+
+                
+
+                    
+                    
+                        [{
+                            text: 'Whisky Red Label',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 19,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 38,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral com gás',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 5,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 5,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Camarão Crocante ',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 55,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 55,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Prato Kids',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 26,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 26,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Stella Artois',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 11,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 22,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Biscoito',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 26,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Chocolate Especial',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 9,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Batata 37g',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 12,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 24,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '5',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Mini Pastéis ',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 9,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola Zero',
+                            style: 'tableCell'
+                        },{
+                            text: '3',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 18,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola Zero',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 24,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Heineken',
+                            style: 'tableCell'
+                        },{
+                            text: '36',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 11,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 396,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 24,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Mini Pastéis ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 68,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 18,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Whisky Red Label',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 19,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 76,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral com gás',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 5,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 10,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 9,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua de Coco',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 12,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola Zero',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 24,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Whisky Red Label',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 19,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 19,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Massas | Spaghetti',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '3',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 18,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Chocolate Especial',
+                            style: 'tableCell'
+                        },{
+                            text: '18',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 234,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 9,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Barra Cereal',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Biscoito',
+                            style: 'tableCell'
+                        },{
+                            text: '8',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 104,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Snacks',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 15,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 15,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Biscoito',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 26,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola Zero',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 24,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Camisa (Lavar)',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 20,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 20,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Camisa (Passar)',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola',
+                            style: 'tableCell'
+                        },{
+                            text: '5',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Whisky Black Label',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 23,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 23,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral com gás',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 5,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 10,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '8',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 48,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Mini Pastéis ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 68,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Heineken',
+                            style: 'tableCell'
+                        },{
+                            text: '3',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 11,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 33,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Peixe da Terra',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 75,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 75,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Lascas de Carne no Creme de Nata',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 48,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 48,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Massas | Spaghetti',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Arroz com filé',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 35,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 35,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola',
+                            style: 'tableCell'
+                        },{
+                            text: '6',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 36,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 9,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '5',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 12,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Whisky Black Label',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 23,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 46,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral com gás',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 5,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 5,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Heineken',
+                            style: 'tableCell'
+                        },{
+                            text: '5',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 11,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 55,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Peixe da Terra',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 75,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 75,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Filé do Sol',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 52,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 52,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Tinto | Casal Garcia ',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 122,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 122,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola',
+                            style: 'tableCell'
+                        },{
+                            text: '5',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Whisky Black Label',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 23,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 23,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral com gás',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 5,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 10,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '8',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 48,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Mini Pastéis ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 68,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Heineken',
+                            style: 'tableCell'
+                        },{
+                            text: '3',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 11,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 33,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Arroz com filé',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 35,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 35,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Peixe da Terra',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 75,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 75,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Lascas de Carne no Creme de Nata',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 48,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 48,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Massas | Spaghetti',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 24,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '5',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Massas | Spaghetti',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 60,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 18,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                        [{
+                            text: 'Transfer (Aeroporto - Pousada)',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 450,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 450,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola',
+                            style: 'tableCell'
+                        },{
+                            text: '5',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 30,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '11',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 66,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Mini Pastéis ',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 9,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Caipirinha Absolut',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 26,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 52,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Heineken',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 11,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 22,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Whisky Black Label',
+                            style: 'tableCell'
+                        },{
+                            text: '3',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 23,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 69,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Whisky Red Label',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 19,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 38,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '3',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 18,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Caipirinha Absolut',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 26,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 26,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 24,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola Zero',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Mini Pastéis ',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Heineken',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 11,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 11,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Tapioca Queijo',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola Zero',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Whisky Red Label',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 19,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 19,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola Zero',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 12,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola Zero',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '7',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 42,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Mini Pastéis ',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Caipirinha de Smirnoff',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 20,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 40,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Heineken',
+                            style: 'tableCell'
+                        },{
+                            text: '3',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 11,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 33,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Caipirinha de Smirnoff',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 20,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 20,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 24,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Cocada Quente',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 20,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 20,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Massas | Penne',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 32,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 64,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Snacks',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 15,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 15,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Chocolate Especial',
+                            style: 'tableCell'
+                        },{
+                            text: '5',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 65,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Barra Cereal',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 12,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Biscoito',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Chiclete',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 5,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 5,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Chocolate Especial',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 13,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Snacks',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 15,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 15,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 9,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Refrigerante',
+                            style: 'tableCell'
+                        },{
+                            text: '3',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 18,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Agua Mineral ',
+                            style: 'tableCell'
+                        },{
+                            text: '2',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 4,50',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 9,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Churrasco 01/01',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 20,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 20,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Coca-Cola',
+                            style: 'tableCell'
+                        },{
+                            text: '7',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 42,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Mini Pastéis ',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 34,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Guaraná',
+                            style: 'tableCell'
+                        },{
+                            text: '4',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 6,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 24,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: 'Penne com Carne de Sol',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 40,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 40,00',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                    
+                        [{
+                            text: '10% Serviço',
+                            style: 'tableCell'
+                        },{
+                            text: '1',
+                            style: 'tableCell'
+                        },{
+                            text: 'R$ 443,95',
+                            style: 'tableCell',
+                            noWrap: true
+                        },{
+                            text: 'R$ 443,95',
+                            style: 'tableCell',
+                            noWrap: true
+                        }],
+
+                    
+                    
+                
+
+                
+                    [{
+                        text: 'Total',
+                        alignment: 'right',
+                        bold: true,
+                        colSpan: 3,
+                        style: 'tableCell'
+                    },{}, {},
+                    {
+                        text: 'R$ 4883,45',
+                        style: 'tableCell',
+                        bold: true,
+                        noWrap: true
+                    }
+
+                    ],
+                    
+                        [{
+                            text: 'Saldo devedor',
+                            alignment: 'right',
+                            bold: true,
+                            colSpan: 3,
+                            style: 'tableCell'
+                        },{}, {},
+                        {
+                            text: 'R$ 4883,45',
+                            style: 'tableCell',
+                            bold: true,
+                            noWrap: true
+                        }
+
+                        ],
+
+                    
+                
+                ]
+            }
+        }
+        
+        
+        
+        
+    ],footer: function (page, pages) {
+                return {
+                    columns: [
+                        {
+                            text: 'www.hotelflow.com.br',
+                            style: ['quote', 'small']
+                        },
+                        {
+                            image: '',
+                            
+                            text: 'teste',
+                            alignment: 'center',
+                        },
+
+                        {
+                            alignment: 'right',
+                            style: ['quote', 'small'],
+                            text: [
+                                {text: page.toString(), italics: true},
+                                '/',
+                                {text: pages.toString(), italics: true}
+                            ]
+                        }
+                    ],
+                    margin: [20, 0]
+                };
+            },
+    styles: {
+        header: {
+            bold: true,
+            fontSize: 18
+        },
+        
+        tableHeader: {
+            margin: [ 5, 0],
+            fillColor: 'lightgrey'
+        }
+    }
+}
